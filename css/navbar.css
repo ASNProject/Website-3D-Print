@@ -1,0 +1,32 @@
+.bg-custom{
+    background-color: #1C74E8 !important;
+    transition: 0.3s;
+    color: #000 !important;
+}
+
+.bg-custom:hover {
+    background-color:#6c873a !important;
+    color: #000 !important;
+}
+
+  .navbar{
+      width: 100%;
+  }
+
+  .link-navbar{
+    color: #1C74E8;
+    transition: 0.3s;
+  }
+
+  .link-navbar:hover{
+    color: #000;
+  }
+
+  .bg-active{
+    background-color: transparent !important;
+    border-radius: 0px !important;
+    transition: 0.3s;
+    color: #1C74E8 !important;
+    border-bottom: 2px solid #1C74E8;
+}
+
